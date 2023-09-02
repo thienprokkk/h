@@ -1,0 +1,29 @@
+<set></set>
+1. elements access
+find(val)
+count(val)
+swap
+2. insert
+insert(val)
+    insert(position, val)
+    insert(iterator position 1, iterator position 2)
+emplace(val)
+emplace_hint(position, val)
+3. erase
+erase(val)
+    erase(position)
+    erase(position 1, position 2)
+clear()
+4. tim kiem nhi phan
+binary_search(val);
+lower_bound(val)
+upper_bound(val)
+equal_range
+5. size
+size
+max_size
+empty
+6. distance
+distance(position 1, position 2)
+7. allocate memory
+get_allocator

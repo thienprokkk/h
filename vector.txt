@@ -1,0 +1,30 @@
+<vector></vector>
+1. elements access
+back
+front
+at
+[]
+=
+swap
+data
+2. insert
+insert
+push_back
+emplace
+emplace_back
+assign
+3. erase
+erase
+clear
+pop_back
+4. size
+size
+max_size
+capacity
+reserve
+resize
+empty
+5. allocation memory
+get_allocator
+6. distance
+v[] - v[] or distance(position 1, position 2)
